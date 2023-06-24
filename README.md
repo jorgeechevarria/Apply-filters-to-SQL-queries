@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/MAEapT6.png" alt="SQL logo"/>
 </p>
 
-<h1>Apply filters to SQL queries</h1>
+<h1>Applying filters to SQL queries</h1>
 
 I am responsible for ensuring the security of our organization's system. This involves investigating potential security issues and updating employee computers as needed. I utilize SQL with filters to perform security-related tasks efficiently.
 
